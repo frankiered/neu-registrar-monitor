@@ -23,4 +23,6 @@ __How to run the script:__
 
 7. You're done! Leave it running and the monitor will send a Discord embed when a given class has availability.
 
+<img width="506" alt="image" src="https://github.com/frankiered/neu-registrar-monitor/assets/75506077/8905e9b7-1375-4b3e-ac5d-53d8d61b9c94">
+
 P.S. The Monitor will automatically filter out campuses that aren't Boston and classes that start at 8:00 AM. You can adjust this on line 169.
